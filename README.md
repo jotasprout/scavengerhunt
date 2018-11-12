@@ -1,10 +1,15 @@
-# scavengerhunt
-Mobile and game version of Stakeout
+# Scavenger Hunt
 
-Admin creates games, invites players, builds teams and enters treasures.
+## Admin - Paid Version
+Admin privileges
 
-Game alerts players when new treasures are found.
+- creates games
+- invites players
+- builds teams 
+- enters treasures
+- Override votes to mediate disputes
 
-Players can "vote" on legitimacy of others' "treasures" ("observations").
+## Player - Free Version
 
-"Admin" can override above votes to mediate disputes. Like the "admin" in a deathpool.
+- Game alerts players when new treasures are found
+- Players can "vote" on legitimacy of others' "treasures" ("observations")
