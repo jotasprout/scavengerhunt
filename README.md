@@ -1,8 +1,11 @@
 # Scavenger Hunt
 
+Most awesome game ever.
+
 ## Guts
 - CouchDB
 - PouchDB
+- ServiceWorker
 
 ## Features
 
