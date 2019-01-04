@@ -9,7 +9,7 @@ Most awesome game ever.
 
 ## Features
 
-### Admin - Paid Version
+### Commissioner - Paid Version
 Admin privileges
 
 - creates games
@@ -17,6 +17,8 @@ Admin privileges
 - builds teams 
 - enters treasures
 - Override votes to mediate disputes
+- download lists
+- share lists
 
 ### Player - Free Version
 
